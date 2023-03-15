@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: black;
+    background-color: rgba(152, 238, 152, 0.712);
+}
+
+.selector {
+    text-align: left;
+    color: greenyellow;
+}
+
+.img {
+    align-items: center;
+    width: 25%;
+    height: auto;
+    margin-left: 50%;
+}
+
+.steps {
+    text-align: right;
+    color: black;
+    background-color: white;
+}
+
+.steps.salsa,
+.steps.desc {
+    color: rgb(160, 160, 0);
+}
